@@ -26,9 +26,10 @@ author:
   avatar           : "profile.png"
   name             : "Ignacio Acevedo R."
   pronouns         : # example: "she/her"  
-  bio              : "I am a mathematical physicist from the Université Paris-Saclay. I am currently a Ph.D. student at the Institute de Mathématiques d'Orsay under the supervision of  Frédéric Rousset. My research focuses on the analysis of dispersive partial differential equations arising in fluid mechanics and quantum mechanics."
+  bio              : "I am currently a Ph.D. student at the Institute de Mathématiques d'Orsay under the supervision of  Frédéric Rousset. 
+                      My research focuses on the analysis of dispersive partial differential equations arising in fluid mechanics and quantum mechanics."
   location         : "Orsay, France"
-  employer         : "CNRS et Université Paris-Saclay"
+  employer         : "CNRS, Université Paris-Saclay"
   uri              : # URL
   email            : "ignacio-andres.acevedo-ramos@cnrs.fr" 
 
