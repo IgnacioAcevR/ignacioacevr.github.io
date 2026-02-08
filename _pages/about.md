@@ -13,15 +13,15 @@ I completed a master's degree in Mathematics and Applications (M2 Analysis, Mode
 
 In addition, I completed a bachelor's program in Physics from the Departamento de Física at the Universidad de Chile, and a degree in mathematical engineering DIM UCH.
 
+## Research
 
-Research
-=====
 My area of interest is related to Partial Differential Equations comming from Physics. I am currently exploring problems of stability and singular perturbations in fluidmechanics.
 
 My recent work has been related to Nonlinear Dispersive Equations, stability, and asymptotic stability. The nonlinear equations of type Schro\"dinger and wave are among my main theoretical motivations.
 
 I am also open to new problems in mathematics with physical motivations.
 
+## Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
