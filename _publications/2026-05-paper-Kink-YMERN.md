@@ -4,7 +4,7 @@ collection: publications
 category: preprints
 permalink: /publication/2026-05-paper-kink-dynamics-YMERN
 excerpt: 'A study on the asymptotic stability of the kink solution in an inhomogeneous Yang-Mills model using adapted virial techniques.'
-date: 2026-05
+date: 2026-06-01
 venue: 'arXiv preprint'
 slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://arxiv.org/abs/2501.12790v4'
