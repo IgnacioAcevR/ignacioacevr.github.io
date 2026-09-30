@@ -22,10 +22,6 @@ Course Syllabus & Topics
 * **Cauchy Theory:** Cauchy integral formulas, Liouville's theorem, and maximum modulus principle.
 * **Singularities & Residues:** Laurent series, residue theorem, and evaluation of real integrals.
 
-% ### Course Overview
-
-% Teaching Assistant / Instructor for exercise sessions (*Travaux Dirigés*) in **Complex Analysis (L3 level)**. Topics covered include holomorphic functions, Cauchy integral formulas, residue theorem, meromorphic functions, conformal mappings, and boundary value problems.
-
 ---
 
 Course Materials & Exercise Sheets
@@ -34,14 +30,14 @@ Course Materials & Exercise Sheets
 TD 1: Holomorphic & Harmonic Functions
 ------
 * **Topics:** Cauchy-Riemann equations, power series, and harmonic conjugates.
-* **Material:** [Exercise Sheet 1 (PDF)](/files/teaching/TD2_2026.pdf)
+* **Material:** [Exercise Sheet 2 (PDF)](/files/teaching/TD2_2026.pdf)
 
 TD 2: Cauchy Integral Formulas
 ------
 * **Topics:** Cauchy integral theorem, Liouville's theorem, and maximum modulus principle.
-* **Material:** % [Exercise Sheet 2 (PDF)](/files/teaching/TD2_Complex_Analysis.pdf)
+* **Material:** 
 
 TD 3: Singularities & Residues
 ------
 * **Topics:** Laurent series, residue calculus, and evaluation of definite real integrals.
-* **Material:** % [Exercise Sheet 3 (PDF)](/files/teaching/TD3_Complex_Analysis.pdf)
+* **Material:** 
