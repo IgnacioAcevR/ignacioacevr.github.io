@@ -1,11 +1,12 @@
 ---
-title: "Complex Analysis (L3) - TD"
+title: "Analyse Complexe (L3) - TD"
 collection: teaching
 type: "Undergraduate course (Travaux Dirigés)"
 permalink: /teaching/2026-spring-complex-analysis-ENS-PS
 venue: "ENS Paris-Saclay, Département de Mathématiques"
 date: 2026-09-01
 location: "Gif-sur-Yvette, France"
+excerpt: "Undergraduate course (TD) at ENS Paris-Saclay covering the general theory of complex analysis, including holomorphic functions, Cauchy integral formulas, and residue calculus."
 ---
 
 Course Overview

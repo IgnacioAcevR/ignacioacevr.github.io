@@ -21,7 +21,6 @@ Before starting my PhD, I completed a Master's degree in Mathematics and Applica
 
 I also hold a Bachelor's degree in Physics from the Departamento de Física and a degree in Mathematical Engineering, both from the Universidad de Chile.
 
-## News & Updates
 
 ## News & Updates
 
