@@ -27,6 +27,10 @@ I also hold a Bachelor's degree in Physics from the Departamento de Física and 
 * **July 2026:** Paper accepted for publication in the [*Memoirs of the American Mathematical Society*](https://www.ams.org/cgi-bin/mstrack/accepted_papers/memo).
 * **June 2026:** Posted an updated version of the preprint *"Kink dynamics for the Yang-Mills field in an extremal Reissner-Nordström black hole"* (joint with C. Muñoz) on [arXiv:2501.12790v4](https://arxiv.org/abs/2501.12790v4) including referee suggestions.
 
+## Related topics
+
+Please visit the fantastic website of my colleague [Arthur Yax](https://arthur-yax.pages.math.cnrs.fr/) at LMO.
+
 ## Contact Information
 
 I am always open to discussions, questions about my work, or potential collaborations. Please feel free to reach out to me at my primary research address below:
