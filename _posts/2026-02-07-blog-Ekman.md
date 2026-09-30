@@ -1,7 +1,7 @@
 ---
 title: 'Ekman flow'
 date: 2026-02-07
-permalink: /posts/2026/02/blog-post-1/
+permalink: /posts/2026/02/blog-Ekman/
 tags:
   - cool posts
   - category1
