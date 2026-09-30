@@ -7,6 +7,7 @@ venue: "Seminar of PDE, Laboratoire de Mathématiques d'Orsay, Université Paris
 date: 2026-05-26
 location: "Orsay, France"
 slidesurl: 'https://ignacioacevr.github.io/files/seminaire-DIM-UCHILE-2025.pdf'
+excerpt: "We present recent results regarding the asymptotic stability of kink solutions for the Yang-Mills field in an extremal Reissner-Nordström black hole background using adapted virial techniques."
 ---
 
 ### Abstract
