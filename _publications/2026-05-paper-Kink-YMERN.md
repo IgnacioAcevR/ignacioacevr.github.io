@@ -9,7 +9,7 @@ venue: 'arXiv preprint'
 slidesurl: 'https://academicpages.github.io/files/seminaire-DIM-UCHILE-2025.pdf'
 paperurl: 'https://arxiv.org/abs/2501.12790v4'
 # bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'I. Acevedo, and C. Muñoz (2025). &quot;Kink dynamics for the Yang-Mills field in an extremal Reissner-Nordström black hole.&quot; <i>arXiv:2501.12790v4</i>.'
+citation: 'I. Acevedo, and C. Muñoz (2026). <i>Kink dynamics for the Yang-Mills field in an extremal Reissner-Nordström black hole.</i> arXiv:2501.12790v4.'
 ---
 In this work we consider the Yang-Mills field in an extremal Reissner-Nordstr\"om black hole. The kink is a fundamental, strongly unstable stationary solution in this non-perturbative, variable coefficients model, with a polynomial tail and no explicit form. 
 

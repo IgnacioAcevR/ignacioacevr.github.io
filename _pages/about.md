@@ -17,9 +17,9 @@ I have always been fascinated by the richness of mathematical structures arising
 
 ## Background
 
-Before starting my PhD, I completed a Master's degree in Mathematics and Applications (M2 Analysis, Modeling, and Simulation) at Université Paris-Saclay. Prior to that, I earned a Master's degree in Applied Mathematics from the Departamento de Ingeniería Matemática (DIM) at the Universidad de Chile, where I worked under the guidance of [Claudio Muñoz](https://sites.google.com/view/claumuno/home?authuser=0).
+Before starting my PhD, I completed a Master's degree in Mathematics and Applications (M2 Analysis, Modeling, and Simulation) at Université Paris-Saclay. Prior to that, I earned a Master's degree in Applied Mathematics from the Departamento de Ingeniería Matemática (DIM) at Universidad de Chile, where I worked under the guidance of [Claudio Muñoz](https://sites.google.com/view/claumuno/home?authuser=0).
 
-I also hold a Bachelor's degree in Physics from the Departamento de Física and a degree in Mathematical Engineering, both from the Universidad de Chile.
+I also hold a Bachelor's degree in Physics from the Departamento de Física and a degree in Mathematical Engineering, both from Universidad de Chile.
 
 
 ## News & Updates
