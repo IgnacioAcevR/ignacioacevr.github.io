@@ -1,3 +1,18 @@
 <script type="module" src="{{ base_path }}/assets/js/main.min.js"></script>
 
 {% include analytics.html %}
+
+
+<!-- GLightbox CSS & JS for Fullscreen Photo Lightbox -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/glightbox/dist/css/glightbox.min.css" />
+<script src="https://cdn.jsdelivr.net/npm/glightbox/dist/js/glightbox.min.js"></script>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const lightbox = GLightbox({
+      touchNavigation: true,
+      loop: true,
+      zoomable: true
+    });
+  });
+</script>
