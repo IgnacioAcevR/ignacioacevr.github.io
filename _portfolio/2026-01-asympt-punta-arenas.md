@@ -18,7 +18,7 @@ Photo Gallery
   <a href="/images/portfolio/26-01-punta-arenas/cafe.jpg" class="glightbox" data-gallery="punta-arenas" data-title="Cafe in Punta Arenas">
     <img src="/images/portfolio/26-01-punta-arenas/cafe.jpg" alt="Cafe in Punta Arenas" style="width: 100%; height: 200px; object-fit: cover; border-radius: 6px;">
   </a>
-  <a href="/images/portfolio/26-01-punta-arenas/cementery.jpg" class="glightbox" data-gallery="punta-arenas" data-title="Cemetery in Punta Arenas">
+  <a href="/images/portfolio/26-01-punta-arenas/cementery.jpg" class="glightbox" data-gallery="punta-arenas" data-title="Cementery ">
     <img src="/images/portfolio/26-01-punta-arenas/cementery.jpg" alt="Cemetery in Punta Arenas" style="width: 100%; height: 200px; object-fit: cover; border-radius: 6px;">
   </a>
   <a href="/images/portfolio/26-01-punta-arenas/island.jpg" class="glightbox" data-gallery="punta-arenas" data-title="Island near Punta Arenas">
